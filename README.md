@@ -26,8 +26,8 @@ To run `sbt`:
 
 If you just type `sbt` into the console, you get the sbt console.  This allows you to enter the above tasks one by one:
 
-```bash
-sbt 
+```sbt
+> sbt 
 [info] Loading global plugins from /Users/mechko/.sbt/0.13/plugins
 [info] Set current project to SimpleScala (in build file:/Users/mechko/projects/SimpleScala/)
 > clean
