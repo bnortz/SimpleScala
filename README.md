@@ -53,3 +53,5 @@ If you just type `sbt` into the console, you get the sbt console.  This allows y
 [success] Total time: 4 s, completed Jun 28, 2015 6:19:12 PM
 > exit
 ```
+
+Once you've updated once, the `compile` task will automatically be triggered if sources have been changed, so you only need to run `sbt test` or `sbt run`
