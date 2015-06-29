@@ -5,6 +5,8 @@
 //
 //They have built in .equals methods, toString methods and hashCode methods which makes them easy to use
 //This is Bonnie making a change!
+//This is Bonnie making a change and not merging the branch yet
+
 
 case class HelloWorld(message : String, volume : Int)
 
