@@ -4,6 +4,7 @@
 //Case classes are a special feature of Scala
 //
 //They have built in .equals methods, toString methods and hashCode methods which makes them easy to use
+//This is Bonnie making a change!
 
 case class HelloWorld(message : String, volume : Int)
 
